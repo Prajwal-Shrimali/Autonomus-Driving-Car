@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\prajw\\Desktop\\College Sem 5\\Machine Learning\\Project\\Autonomus Driving Car\\esp32\\Training\\autonomous_car_1-0.001-alexnet-8-epochs.model"
+all_model_checkpoint_paths: "C:\\Users\\prajw\\Desktop\\College Sem 5\\Machine Learning\\Project\\Autonomus Driving Car\\esp32\\Training\\autonomous_car_1-0.001-alexnet-8-epochs.model"

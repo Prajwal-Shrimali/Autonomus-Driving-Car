@@ -1,0 +1,24 @@
+/.venv
+/3_7_venv
+/backup_firmware.bin
+/ESP32_GENERIC-20240602-v1.23.0.bin
+/esp32_nodemcu_20170705.bin
+/esp_simulation.py
+/image.png
+/requirement.zip
+/requirements.txt
+/server.py
+/training_data.npy
+/esp32/OpenCV Line Follower and Trainer
+/esp32/media
+/esp32/Training/__pycache__
+/esp32/Training/log
+/esp32/Training/autonomous_car-0.001-alexnet-8-epochs.model.data-00000-of-00001
+/esp32/Training/autonomous_car-0.001-alexnet-8-epochs.model.index
+/esp32/Training/autonomous_car-0.001-alexnet-8-epochs.model.meta
+# /esp32/Training/autonomous_car_1-0.001-alexnet-8-epochs.model.data-00000-of-00001
+/esp32/Client/__pycache__
+/esp32/esp32-idf3-20210202-v1.14.bin
+/esp32/LICENCE.md
+/esp32/README.md
+/esp32/wireless-setup.md
